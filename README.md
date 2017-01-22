@@ -2,7 +2,7 @@ LBRY Wallet
 ===============
 
 This is a wallet based on coinomi-android custom made for lbry with only the stuff needed for the LBRY coin.
-Its also as of now using BIP44 without registring(the id is 150) so if anyone from the core team could add it to BIP44!
+Its also as of now using BIP44 with an id of 140 which has been registered at: https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
 TODOs:
 
