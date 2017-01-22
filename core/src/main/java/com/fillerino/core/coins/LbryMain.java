@@ -18,7 +18,7 @@ public class LbryMain extends BitFamily {
         name = "LBRY";
         symbol = "LBC";
         uriScheme = "lbry";
-        bip44Index = 150;
+        bip44Index = 140;
         unitExponent = 8;
         feeValue = value(12000);
         minNonDust = value(5460);
