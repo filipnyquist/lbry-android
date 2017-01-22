@@ -10,7 +10,7 @@ public class LbryMain extends BitFamily {
         id = "lbry.main";
 
         addressHeader = 85;
-        p2shHeader = 5;
+        p2shHeader = 5;  //is this correct? shouldn't it be 122 for lbry? 
         acceptableAddressCodes = new int[] { addressHeader, p2shHeader };
         spendableCoinbaseDepth = 100;
         dumpedPrivateKeyHeader = 28;
